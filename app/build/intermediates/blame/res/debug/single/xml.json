@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\AndroidHWStarts\\instructors\\ch08_ex4_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "C:\\AndroidHWStarts\\instructors\\ch08_ex4_TipCalculator\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\AndroidHWStarts\\instructors\\HW4Start\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "C:\\AndroidHWStarts\\instructors\\HW4Start\\app\\src\\main\\res\\xml\\preferences.xml"
+    }
+]
